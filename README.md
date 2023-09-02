@@ -1,2 +1,3 @@
 # BodyFat_Prediction
-https://bodyfatprediction-hnchpvoe43czpnahsnev4m.streamlit.app/
+
+[![Streamlit](streamlit.png)]([https://www.streamlit.io/](https://bodyfatprediction-hnchpvoe43czpnahsnev4m.streamlit.app/)https://bodyfatprediction-hnchpvoe43czpnahsnev4m.streamlit.app/)
